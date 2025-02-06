@@ -4,8 +4,8 @@
 //stdio.h - Standard I O (In and Out)
 
 int main() {
-    int idade
+    int number = 20; 
 
-    printf("Hello, World!\n");
+    printf("%d", number); // chamando váriavel  
     return 0;
 }
